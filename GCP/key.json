@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "mcrta-exam",
-  "private_key_id": "c65663c4bcddb3d6664818d6459410a2b5fa31f1",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC6466Q3tzM2ept\nE6vjH1vtPB/STQdaKdYGGiUQqqK/VDr/j8RAGFDc5zd9PRbMNkhphIEy7QTMn0fj\nCiRDROeS1bF1CK/P0tQ8UFbRGNkssqRZy4BwjAixrxwzhx5VDL5G4UHnVqLiOLXk\nDErkz0nm6lKvzX+M9hcUrUkF/NLsl8zWlLkwa/qthfYt4PXgzhyYQV5h4O8+XKuQ\nsjtVgThC8xzomW+y2Dy2m088V12KPk7fDO48blOaz7J4bqnwxx67wkkZx4YIEUJs\nxbXHahkLJ0IvDTXEI59Gy08C5oLTg3zJO/OD0d+S9fFp0czVSs+3LY9zR1cMXYIO\nbSD8sdDPAgMBAAECggEAHi45mSScZKqGXJISLo34YvHUM7qDxvA9o2Oie7QKrzoz\nguTdLPqgSGRAhkWQwm67t+qRkL9NCJxqWARhwclFWmWPEFbUSYwDATB6LK9GFx1M\nREIEXmiG2Obt93ZJFDQIIFstMOZBTKYa3ZaMm7HL/fH2Y3Sctg9hv9GSGtju2Q0N\nl77B0XqN/E1XnYjNJj0StYTsguV2/GYNjsWKGYGGPeqf4F1cIJ6jBasI2w1YhXxw\nHS7wn3msyi+2IGrJh3fiegqiIbVtQviMVK8qV39UMoyFLdceBqxTCpaN0ifwneTT\nxrhSN7ECC/Hyy+knPI2oyYp+pG65jDiTUwhrOyBJ6QKBgQDzS+iLUl5HC8vEFXxF\npJ1pfzuMuvp9KSfyfQ+oxwlaz1nlnoS70KOnzY9AWmtddkGwouVVfOA6ef7PL0i/\ndONJMbo05QzuagLrbl7vuH7d5Ws7DgFIjxomxrO9Y6zLjgR412uIrncklBEWHgqM\nZEhCQ5fJBwtkA/SX2PbB6NyVyQKBgQDEpcqnv36K11Va/TUUsHvOc+uV70XljOb7\nW5HQGnHS8WswqXZ/UoG0HkwDH+/ChayWdJXaXKQEyfd/UsDI5FOJ1KaVJahwfq0I\nrXRUq5irsBNthdVS9imQVAe9VnjRPfBGPo/rgRy3nEPdE8hu83xbqqGoyyQvPVTc\nhw6F+9Zd1wKBgQDqqGowBk/cImp0Q2zLFwykNg1PnQAAO/PFlA3IccB6D8fbCltn\ncsKGFGN4ZD1ttaOCJHshSwJSJFw5pJd74ddeP1IjtlAUm7cZMCjs+XuTtbUJDmb6\nfttwTvIJVtvQsLdrfgq/l9ZeN1mLhYoTAp4XG26Ie/zmiFIfKypEuL4Y0QKBgQC6\nDj8i3ezlgn1w3He3fo91M3pn3v6cBOeaVPYuFocxVVfcr8m9B5xOhgfXQQVBX+Z+\naApMkzBgk5LG9c4PhPCBTSDbpsiqv0AKIMsbPUvyzWJkUqcWmm+S7d5wxvsCxn6q\nh5D1+q/oDUKsToZqa5dyx4uyv5kZ1QaQrHwSSsd0+wKBgQDdoRkq/OfTZgsrqemg\nd3fkA+nnqB5D8Oq5virfrbhpM6YqJGOjBfNLoi0Eatwl+K7fyuU1HQuPmFlz4X94\nBKjv1jr8pexoyz2dE10uK9D+ArZFalxj7Sy3Nv9Y18DSG+P+v4rcKxfEdzC1StCl\nu5QjmVvPaldytdHRK7Zc0K/Qjw==\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "xxx",
+  "private_key": "-----BEGIN PRIVATE KEY-----xxx\n-----END PRIVATE KEY-----\n",
   "client_email": "dev-service-account@mcrta-exam.iam.gserviceaccount.com",
-  "client_id": "109225491367647953362",
+  "client_id": "xxx",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
